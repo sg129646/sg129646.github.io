@@ -16,6 +16,7 @@ description              : &description "Engineer, researcher, and advocate focu
 url                      : https://stacyigwe.com  # your custom domain
 baseurl                  : ""  # no subpath — site is served from root
 repository               : "sg129646/sg129646.github.io"
+icon                     : "G.png"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
