@@ -25,7 +25,7 @@ permalink: /about/
     </p>
 
     <p>
-    <strong>Email:</strong> stacyg@cmu.edu<br>
+    <strong>Email:</strong> sgodfree[at]andrew.cmu.edu
     <strong>CV:</strong> <a href="/cv/">Link</a><br>
     <strong>GitHub:</strong> <a href="https://github.com/sg129646">github.com/sg129646</a>
     </p>
