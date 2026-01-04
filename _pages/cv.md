@@ -60,20 +60,20 @@ Built MATLAB models analyzing growth-condition sensitivity in methanotrophic syn
 
 ## Publications, Presentations & Talks
 
-- Rahman, E., BinAhmed, S., Keyes, P., Alberg, C., **Godfreey-Igwe, S.**, Haugstad, G., Xiong, B. (2024).  
-  *Nanoscale abrasive wear of polyethylene: a novel approach to probe nanoplastic release at the single asperity level.*  
-  **Environmental Science & Technology** (Cover Feature).
+Rahman, E., BinAhmed, S., Keyes, P., Alberg, C., **Godfreey-Igwe, S.**, Haugstad, G., Xiong, B. (2024).  
+*Nanoscale abrasive wear of polyethylene: a novel approach to probe nanoplastic release at the single asperity level.*  
+**Environmental Science & Technology** (Cover Feature).
 
-- Godfreey-Igwe, S. *Working Towards Global Sustainability.*  
-  MIT Sustainability Researcher Lunch Series (Invited Talk), March 2022.
+Godfreey-Igwe, S. *Working Towards Global Sustainability.*  
+MIT Sustainability Researcher Lunch Series (Invited Talk), March 2022.
 
-- Godfreey-Igwe, S., Xiong, B., BinAhmed, S.  
-  *Surface Mechanical Properties of Photo-Weathered Low-Density Polyethylene.*  
-  UMN Summer Research Expo, August 2022.
+Godfreey-Igwe, S., Xiong, B., BinAhmed, S.  
+*Surface Mechanical Properties of Photo-Weathered Low-Density Polyethylene.*  
+UMN Summer Research Expo, August 2022.
 
-- Godfreey-Igwe, S., Criddle, C., Meraz, J.L.  
-  *Modeling Optimal Conditions for Methanotrophic Synthesis of PHB.*  
-  Harvard National Collegiate Research Conference, January 2021.
+Godfreey-Igwe, S., Criddle, C., Meraz, J.L.  
+*Modeling Optimal Conditions for Methanotrophic Synthesis of PHB.*  
+Harvard National Collegiate Research Conference, January 2021.
 
 ---
 
