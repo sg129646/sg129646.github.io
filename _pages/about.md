@@ -1,63 +1,26 @@
 ---
 layout: page
-title: About
+title: "About Me"
 permalink: /about/
 author_profile: true
-nav: false
+nav: true
 ---
 
-# Stacy Godfreey-Igwe
+<p>
+  I’m a second year Ph.D. student in the joint Engineering &amp; Public Policy and Civil &amp; Environmental Engineering program at Carnegie Mellon University.
+  My research examines energy equity, extreme heat, and residential electricity consumption,
+  with a focus on how climate stress disproportionately affects vulnerable communities.
+</p>
 
-<div class="row">
-  <div class="col-sm-3">
-    <img src="/assets/img/profile.jpg" class="img-responsive" alt="Profile photo">
-  </div>
+<p>
+  I study how households adapt to extreme heat, how energy burden shapes cooling behavior,
+  and how policy design can support equitable and resilient energy systems. My work integrates
+  large-scale utility records, high-resolution weather data, and empirical modeling. Feel free to connect with me!
+</p>
 
-  <div class="col-sm-9">
-    <p>
-    I’m a Ph.D. student in Engineering & Public Policy at Carnegie Mellon University.  
-    My research examines energy equity, extreme heat, and residential electricity consumption, 
-    with a focus on how climate stress disproportionately affects vulnerable communities.
-    </p>
+<p>
+  <strong>Email:</strong> sgodfree[at]andrew.cmu.edu<br>
+  <strong>CV:</strong> <a href="{{ '/cv/' | relative_url }}">Link</a>
+</p>
 
-    <p>
-    I study how households adapt to extreme heat, how energy burden shapes cooling behavior, 
-    and how policy design can support equitable and resilient energy systems. My work integrates 
-    large-scale utility records, high-resolution weather data, and empirical modeling.
-    </p>
-
-    <p>
-    <strong>Email:</strong> sgodfree[at]andrew.cmu.edu
-    <strong>CV:</strong> <a href="/cv/">Link</a><br>
-    <strong>GitHub:</strong> <a href="https://github.com/sg129646">github.com/sg129646</a>
-    </p>
-  </div>
-</div>
-
----
-
-## Research Interests
-
-- Extreme heat and electricity demand  
-- Energy equity and household vulnerability  
-- Econometric modeling of residential energy use  
-- Climate resilience and the built environment  
-- Quantitative energy policy analysis  
-
----
-
-## About This Website
-
-This site includes:
-
-- Recent **publications** and **research projects**
-- **Talks** from conferences and seminars
-- Teaching materials and course links
-- A curated **portfolio** of data visualizations and policy analysis
-- A dynamically generated **CV**
-- Occasional blog posts on energy policy and data science
-
-If you'd like to collaborate or learn more about my work, feel free to  
-<a href="/contact/">get in touch</a>.
-
----
+--
