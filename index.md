@@ -4,6 +4,7 @@ title: About
 permalink: /
 redirect_from:
   - /about/
+author_profile: true
 ---
 
 # Stacy Godfreey-Igwe
