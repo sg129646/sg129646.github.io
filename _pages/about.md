@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 author_profile: true
+nav: false
 ---
 
 # Stacy Godfreey-Igwe
