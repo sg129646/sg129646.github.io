@@ -7,7 +7,7 @@ redirect_from:
 author_profile: false
 ---
 
-# Stacy Godfreey-Igwe
+# About Me
 
 <div class="row">
   <div class="col-sm-3">
