@@ -5,6 +5,7 @@ permalink: /
 redirect_from:
   - /about/
 author_profile: false
+nav: false
 ---
 
 # About Me
