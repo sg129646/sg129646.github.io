@@ -70,10 +70,6 @@ Built MATLAB models analyzing growth-condition sensitivity in methanotrophic syn
   *Surface Mechanical Properties of Photo-Weathered Low-Density Polyethylene.*  
   UMN Summer Research Expo, August 2022.
 
-- Godfreey-Igwe, S., Plata, D., Jankovic, N.  
-  *Fundamental Chemistry of Graphene CVD Growth.*  
-  MIT SuperUROP Final Showcase, May 2021.
-
 - Godfreey-Igwe, S., Criddle, C., Meraz, J.L.  
   *Modeling Optimal Conditions for Methanotrophic Synthesis of PHB.*  
   Harvard National Collegiate Research Conference, January 2021.
