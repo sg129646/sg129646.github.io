@@ -2,7 +2,7 @@
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: false
+author_profile:
 redirect_from:
   - /resume
 ---
