@@ -10,8 +10,8 @@
 main:
   - title: "About Me"
     url: /about/
-  
-  - title: "Research"
+    
+  - title: "Research Interests"
     url: /research/
 
   - title: "CV"
