@@ -10,7 +10,6 @@ author_profile: false
 
 # Stacy Godfreey-Igwe
 
-<!--
 <div class="row">
   <div class="col-sm-3">
     <img
@@ -21,13 +20,6 @@ author_profile: false
   </div>
 
   <div class="col-sm-9">
-
-  -->
-
-  <div class="about-banner">
-    <img src="/assets/img/IMG_3599.png" alt="Banner image">
-</div>
-
     <p>
     I’m a Ph.D. student in Engineering & Public Policy at Carnegie Mellon University.  
     My research examines energy equity, extreme heat, and residential electricity consumption, 
