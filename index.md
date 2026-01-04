@@ -47,8 +47,6 @@ nav: false
   </div>
 </div>
 
-
-<!--
 ---
 
 ## Research Interests
@@ -72,5 +70,5 @@ This site includes:
 - A dynamically generated **CV**
 
 -->
-- Occasional blog posts on current reads, graduate school experiences, and energy policy
+
 -->
