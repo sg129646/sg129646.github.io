@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
-author_profile : true
+author_profile: true
 ---
 
 # Stacy Godfreey-Igwe
