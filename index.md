@@ -4,16 +4,15 @@ title: About
 permalink: /
 redirect_from:
   - /about/
-author_profile: true
+author_profile: false
 ---
 
 
 # Stacy Godfreey-Igwe
 
-<div class="row">
-  <div class="col-sm-3">
-    <img src="/images/IMG_3599.png" class="img-responsive" alt="Profile photo">
-  </div>
+<div class="about-banner">
+  <img src="/assets/img/IMG_3599.png" alt="Banner image">
+</div>
 
   <div class="col-sm-9">
     <p>
