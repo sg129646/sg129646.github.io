@@ -10,8 +10,22 @@ author_profile: false
 
 # Stacy Godfreey-Igwe
 
-<div class="about-banner">
-  <img src="/assets/img/IMG_3599.png" alt="Banner image">
+<!--
+<div class="row">
+  <div class="col-sm-3">
+    <img
+      src="/assets/img/profile.jpg"
+      class="img-responsive"
+      alt="Profile photo"
+    >
+  </div>
+
+  <div class="col-sm-9">
+
+  -->
+
+  <div class="about-banner">
+    <img src="/assets/img/IMG_3599.png" alt="Banner image">
 </div>
 
     <p>
