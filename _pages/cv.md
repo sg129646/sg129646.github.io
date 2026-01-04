@@ -29,7 +29,8 @@ June 2022
 - Summer Institute for Computational Social Science (SICCS), CMU Fellow (2025)  
 - NSF Graduate Research Fellowship Program (GRFP), Honorable Mention (2025)  
 - CMU Rales Program Fellowship, Inaugural Cohort (2024–Present)  
-- GEM Fellowship (2024)  
+- GEM Fellowship (2024)
+- Rhodes Scholarship Finalist (2021)
 
 ---
 
