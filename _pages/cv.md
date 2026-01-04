@@ -44,25 +44,20 @@ Developing a fixed-effects panel model of residential electricity consumption un
 ---
 
 **University of Minnesota – Twin Cities — NSF Center for Sustainable Polymers**  
-*Research Assistant* | June 2021 – August 2021  
-Advisors: Professor Boya Xiong; Dr. Sara BinAhmed  
+*Research Assistant* | June 2021 – August 2021    
 
 Extracted and modeled experimental abrasion data in MATLAB to analyze plastic mechanical properties and nanoplastic release under environmental and UV weathering.
 
 ---
 
 **Stanford University — Department of Civil & Environmental Engineering (SURF)**  
-*Research Assistant* | June 2020 – August 2020  
-Advisors: Professor Craig Criddle; Dr. Jorge L. Meraz  
+*Research Assistant* | June 2020 – August 2020    
 
 Built MATLAB models analyzing growth-condition sensitivity in methanotrophic synthesis of biodegradable polymer PHB.
 
 ---
 
 ## Publications, Presentations & Talks
-
-- Godfreey-Igwe, S. *Extreme Heat and Electricity Demand in Tallahassee Households.*  
-  **AAAS Annual Meeting**, 2026. Accepted Poster Presentation.
 
 - Rahman, E., BinAhmed, S., Keyes, P., Alberg, C., **Godfreey-Igwe, S.**, Haugstad, G., Xiong, B. (2024).  
   *Nanoscale abrasive wear of polyethylene: a novel approach to probe nanoplastic release at the single asperity level.*  
@@ -109,19 +104,11 @@ Supported Africa Futures Advisory Board research through literature review and s
 
 ---
 
-**Saathi Biodegradable Sanitary Napkins — Ahmedabad, India**  
-*Project Assistant* | June 2019 – July 2019  
-
-Developed written and social-media outreach promoting sustainable menstrual health products and environmental impact awareness.
-
----
-
 ## Service & Leadership
 
 - EPP Student Facilitation Board — Elected PhD Representative  
 - EPP SUCCEED Program — Graduate Organizer (Climate & Energy Justice Outreach)  
 - CMU School of Engineering Graduate Outreach Committee — Member  
-- MIT Mechanical Engineering DEI Task Force — Undergraduate Representative  
 
 ---
 
@@ -129,9 +116,3 @@ Developed written and social-media outreach promoting sustainable menstrual heal
 
 **Technical:** R, Python, MATLAB, Excel, SolidWorks, Overleaf  
 **Languages:** French (Intermediate); Igbo (Elementary)
-
----
-
-## Interests
-
-Energy & climate justice; African literature; community outreach; science communication
