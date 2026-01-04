@@ -72,5 +72,5 @@ This site includes:
 - A dynamically generated **CV**
 
 -->
-- Occasional blog posts on energy policy and data science
+- Occasional blog posts on current reads, graduate school experiences, and energy policy
 -->
