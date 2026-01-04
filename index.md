@@ -12,7 +12,7 @@ author_profile: false
 
 <div class="row">
   <div class="col-sm-3">
-    <img src="/assets/img/IMG_3599.png" class="img-responsive" alt="Profile photo">
+    <img src="images/IMG_3599.png" class="img-responsive" alt="Profile photo">
   </div>
 
   <div class="col-sm-9">
