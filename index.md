@@ -14,7 +14,6 @@ author_profile: false
   <img src="/assets/img/IMG_3599.png" alt="Banner image">
 </div>
 
-  <div class="col-sm-9">
     <p>
     I’m a Ph.D. student in Engineering & Public Policy at Carnegie Mellon University.  
     My research examines energy equity, extreme heat, and residential electricity consumption, 
