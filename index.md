@@ -1,3 +1,12 @@
+
+---
+layout: redirect
+permalink: /
+redirect_to: /about/
+---
+
+<!--
+
 ---
 layout: page
 title: About
@@ -60,5 +69,7 @@ This site includes:
 - Teaching materials and course links
 - A curated **portfolio** of data visualizations and policy analysis
 - A dynamically generated **CV**
+
+-->
 - Occasional blog posts on energy policy and data science
 -->
