@@ -7,19 +7,19 @@ redirect_from:
 author_profile: false
 ---
 
-
 # Stacy Godfreey-Igwe
+
 <div class="row">
   <div class="col-sm-3">
     <img src="images/brick-me.png" class="img-responsive" alt="Profile photo">
   </div>
 
   <div class="col-sm-9">
-    <div class="about-indent">
+    <div style="margin-left: 2rem;">
       <p>
-        > I’m a Ph.D. student in Engineering & Public Policy at Carnegie Mellon University.  
-        > My research examines energy equity, extreme heat, and residential electricity consumption, 
-        > with a focus on how climate stress disproportionately affects vulnerable communities.
+        I’m a Ph.D. student in Engineering & Public Policy at Carnegie Mellon University.  
+        My research examines energy equity, extreme heat, and residential electricity consumption, 
+        with a focus on how climate stress disproportionately affects vulnerable communities.
       </p>
 
       <p>
@@ -30,7 +30,7 @@ author_profile: false
 
       <p>
         <strong>Email:</strong> sgodfree[at]andrew.cmu.edu<br>
-        <strong>CV:</strong> <a href="/cv/">Link</a><br>
+        <strong>CV:</strong> <a href="/cv/">Link</a>
       </p>
     </div>
   </div>
