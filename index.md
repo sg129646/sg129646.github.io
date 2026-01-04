@@ -17,7 +17,7 @@ author_profile: false
   <div class="col-sm-9">
     <div class="about-indent">
       <p>
-        I’m a Ph.D. student in Engineering & Public Policy at Carnegie Mellon University.  
+           I’m a Ph.D. student in Engineering & Public Policy at Carnegie Mellon University.  
         My research examines energy equity, extreme heat, and residential electricity consumption, 
         with a focus on how climate stress disproportionately affects vulnerable communities.
       </p>
