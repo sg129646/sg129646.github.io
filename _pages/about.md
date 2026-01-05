@@ -24,28 +24,38 @@ Outside of research I enjoy taking boxing classes, playing with my cat ChiChi, r
 ">
 
   <img src="{{ '/images/IMG_3599.png' | relative_url }}"
-       alt="Fun photo 1"
+       alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
   <img src="{{ '/images/IMG_3705.png' | relative_url }}"
-       alt="Fun photo 2"
+       alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
   <img src="{{ '/images/IMG_4897.png' | relative_url }}"
-       alt="Fun photo 3"
-       style="width:100%; border-radius:12px;" />
-
-   <img src="{{ '/images/IMG_6715.png' | relative_url }}"
-       alt="Fun photo 4"
+       alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
   <img src="{{ '/images/IMG_6723.png' | relative_url }}"
-       alt="Fun photo 5"
+       alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
   <img src="{{ '/images/IMG_7533.png' | relative_url }}"
-       alt="Fun photo 6"
+       alt="Fun photo"
        style="width:100%; border-radius:12px;" />
+
+  <img src="{{ '/images/IMG_7570.png' | relative_url }}"
+       alt="Fun photo"
+       style="width:100%; border-radius:12px;" />
+
+  <img src="{{ '/images/IMG_7831.png' | relative_url }}"
+       alt="Fun photo"
+       style="width:100%; border-radius:12px;" />
+
+  <img src="{{ '/images/IMG_6715.png' | relative_url }}"
+       alt="Fun photo"
+       style="width:100%; border-radius:12px;" />
+
 </div>
+
 
 
