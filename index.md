@@ -1,74 +1,11 @@
-
----
-layout: redirect
-permalink: /
-redirect_to: /about/
-
----
-
-<!--
-
 ---
 layout: page
-title: About
 permalink: /
-redirect_from:
-  - /about/
 author_profile: false
 nav: false
 ---
 
-# About Me
+<script>
+  window.location.replace("{{ '/about/' | relative_url }}");
+</script>
 
-<div class="row">
-  <div class="col-sm-3">
-    <img src="images/brick-me.png" class="img-responsive" alt="Profile photo">
-  </div>
-
-  <div class="col-sm-9">
-    <div style="margin-left: 2rem;">
-      <p>
-        I’m a second year Ph.D. student in the joint Engineering & Public Policy and Civil & Environmental Engineering program at Carnegie Mellon University.  
-        My research examines energy equity, extreme heat, and residential electricity consumption, 
-        with a focus on how climate stress disproportionately affects vulnerable communities.
-      </p>
-
-      <p>
-        I study how households adapt to extreme heat, how energy burden shapes cooling behavior, 
-        and how policy design can support equitable and resilient energy systems. My work integrates 
-        large-scale utility records, high-resolution weather data, and empirical modeling. Feel free to connect with me!
-      </p>
-
-      <p>
-        <strong>Email:</strong> sgodfree[at]andrew.cmu.edu<br>
-        <strong>CV:</strong> <a href="/cv/">Link</a>
-      </p>
-    </div>
-  </div>
-</div>
-
----
-
-## Research Interests
-
-- Extreme heat and electricity demand  
-- Energy equity and household vulnerability  
-- Econometric modeling of residential energy use  
-- Climate resilience and the built environment  
-- Quantitative energy policy analysis  
-
----
-
-## About This Website
-
-This site includes:
-
-- Recent **publications** and **research projects**
-- **Talks** from conferences and seminars
-- Teaching materials and course links
-- A curated **portfolio** of data visualizations and policy analysis
-- A dynamically generated **CV**
-
--->
-
--->
