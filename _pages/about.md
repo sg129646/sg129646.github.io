@@ -11,7 +11,6 @@ Outside of research I enjoy taking boxing classes, playing with my cat ChiChi, r
 
 **Email:** sgodfree[at]andrew.cmu.edu  
 **CV:** [Link]({{ '/cv/' | relative_url }})
-
 <hr />
 
 <h2>Life Outside Research</h2>
@@ -23,42 +22,36 @@ Outside of research I enjoy taking boxing classes, playing with my cat ChiChi, r
   margin-top: 1rem;
 ">
 
-  <img src="{{ '/images/IMG_3599.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_3599.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_3705.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_3705.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_4897.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_4897.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_6723.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_6723.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_7533.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_7533.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_7570.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_7570.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_7831.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_7831.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_6715.jpg' | relative_url }}"
+  <img src="{{ '/images/IMG_6715.png' | relative_url }}"
        alt="Fun photo"
        style="width:100%; border-radius:12px;" />
 
 </div>
-
-
-</div>
-
-
-
