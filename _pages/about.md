@@ -35,14 +35,17 @@ Outside of research I enjoy taking boxing classes, playing with my cat ChiChi, r
        alt="Fun photo 3"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_6723.png' | relative_url }}"
+   <img src="{{ '/images/IMG_6715.png' | relative_url }}"
        alt="Fun photo 4"
        style="width:100%; border-radius:12px;" />
 
-  <img src="{{ '/images/IMG_7533.png' | relative_url }}"
+  <img src="{{ '/images/IMG_6723.png' | relative_url }}"
        alt="Fun photo 5"
        style="width:100%; border-radius:12px;" />
 
+  <img src="{{ '/images/IMG_7533.png' | relative_url }}"
+       alt="Fun photo 6"
+       style="width:100%; border-radius:12px;" />
 </div>
 
 
