@@ -15,8 +15,8 @@ authors:
   - "Haugstad, G."
   - "Xiong, B."
 paperurl: "https://pubs.acs.org/doi/10.1021/acs.est.3c09649"
-slidesurl: "/files/Godfreey-Igwe_Stacy_CSP_Poster.pdf"
-bibtexurl: "/files/achs_esthag58_13845.bib"
+slidesurl: "https://sg129646.github.io/files/Godfreey-Igwe_Stacy_CSP_Poster.pdf"
+bibtexurl: "https://sg129646.github.io/files/achs_esthag58_13845.bib"
 citation: 'Rahman, E., BinAhmed, S., Keyes, P., Alberg, C., Godfreey-Igwe, S., Haugstad, G., &amp; Xiong, B. (2024). <i>Nanoscale abrasive wear of polyethylene: a novel approach to probe nanoplastic release at the single asperity level</i>. Environmental Science &amp; Technology (Cover Feature).'
 ---
 
