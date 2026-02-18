@@ -41,3 +41,21 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+
+/* ===============================
+   Custom Site Overrides
+   =============================== */
+
+/* Cream background */
+body {
+  background-color: #f8f4ed !important;
+}
+
+/* Constrain post width + add margins */
+.page__content {
+  max-width: 760px;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
