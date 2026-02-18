@@ -16,3 +16,11 @@
 body {
   background-color: #f8f4ed;
 }
+
+/* Constrain blog post width */
+.post-content {
+  max-width: 750px;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
