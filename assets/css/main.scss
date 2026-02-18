@@ -52,11 +52,8 @@ html[data-theme="light"] body {
   background-color: #f8f4ed;
 }
 
-
-/* Constrain post width + add margins */
-.page__content {
+.layout--single .page {
   max-width: 760px;
   margin: 0 auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
 }
+
