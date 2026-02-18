@@ -13,7 +13,7 @@ Outside of research I enjoy taking boxing classes, playing with my cat ChiChi, r
 **CV:** [Link]({{ '/cv/' | relative_url }})
 <hr />
 
-<h2>Life Outside Research</h2>
+## Life Outside Research
 
 <div style="
   display: grid;
