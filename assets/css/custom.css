@@ -12,9 +12,8 @@
   }
 }
 
-/* Soft cream background */
 body {
-  background-color: #f8f4ed;
+  background-color: red !important;
 }
 
 /* Constrain blog post width */
