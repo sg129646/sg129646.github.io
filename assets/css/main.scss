@@ -47,10 +47,11 @@
    Custom Site Overrides
    =============================== */
 
-/* Cream background */
-body {
-  background-color: #f8f4ed !important;
+/* Only affect light mode */
+html[data-theme="light"] body {
+  background-color: #f8f4ed;
 }
+
 
 /* Constrain post width + add margins */
 .page__content {
