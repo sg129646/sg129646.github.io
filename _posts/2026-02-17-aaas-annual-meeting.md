@@ -6,10 +6,10 @@ excerpt:  "Attending AAAS brought me back into the science policy landscape and 
 tags:
   - sci-pol
   - conference
-thumbnail: /images/phoenix.jpg
+thumbnail: /images/welcome_phoenix.png
 ---
 
-![Welcome to Phoenix](/images/phoenix.jpg)
+![Welcome to Phoenix](/images/welcome_phoenix.png)
 ---
 This past weekend I returned to my old stomping grounds (aka “science policy”) and had the opportunity through the AAAS (American Association for the Advancement of Science) Annual Meeting in Phoenix to present some of my ongoing research into extreme heat impacts on energy demand. It also marked the first time since starting my PhD that I traveled and attended a conference by myself. Somehow, the experience was so much better than I could have anticipated! 
 
