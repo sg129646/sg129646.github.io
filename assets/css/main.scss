@@ -42,18 +42,17 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-
 /* ===============================
    Custom Site Overrides
    =============================== */
 
-/* Only affect light mode */
-html[data-theme="light"] body {
+/* Light mode background (do NOT override dark) */
+html:not([data-theme="dark"]) body {
   background-color: #f8f4ed;
 }
 
-.layout--single .page {
-  max-width: 760px;
+/* Constrain post width */
+.layout--single #main {
+  max-width: 800px;
   margin: 0 auto;
 }
-
