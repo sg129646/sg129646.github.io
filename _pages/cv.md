@@ -21,7 +21,6 @@ Research Interests: Residential energy demand modeling; extreme heat and climate
 *B.S. in Mechanical Engineering (Concentration in Sustainable Design) and African & African Diaspora Studies*  
 June 2022  
  
-
 ---
 
 ## Honors, Fellowships & Grants
@@ -33,7 +32,6 @@ June 2022
 - Rhodes Scholarship Finalist (2021)
 
 ---
-
 ## Research Experience
 
 **Carnegie Mellon University — Department of Engineering & Public Policy**  
@@ -57,7 +55,6 @@ Extracted and modeled experimental abrasion data in MATLAB to analyze plastic me
 Built MATLAB models analyzing growth-condition sensitivity in methanotrophic synthesis of biodegradable polymer PHB.
 
 ---
-
 ## Publications, Presentations & Talks
 
 Rahman, E., BinAhmed, S., Keyes, P., Alberg, C., **Godfreey-Igwe, S.**, Haugstad, G., Xiong, B. (2024).  
@@ -76,7 +73,6 @@ Godfreey-Igwe, S., Criddle, C., Meraz, J.L.
 Harvard National Collegiate Research Conference, January 2021.
 
 ---
-
 ## Professional Experience
 
 **U.S. Department of Energy — EERE Building Technologies Office**  
@@ -100,7 +96,6 @@ Selected contributions include nuclear microreactor policy analysis and NSF prog
 Supported Africa Futures Advisory Board research through literature review and sustainability scenario analysis.
 
 ---
-
 ## Service & Leadership
 
 - EPP Student Facilitation Board — Elected PhD Representative  
@@ -108,7 +103,6 @@ Supported Africa Futures Advisory Board research through literature review and s
 - CMU School of Engineering Graduate Outreach Committee — Member  
 
 ---
-
 ## Skills
 
 **Technical:** R, Python, MATLAB, Excel, SolidWorks, Overleaf  
