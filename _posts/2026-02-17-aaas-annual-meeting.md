@@ -13,7 +13,7 @@ thumbnail: /images/welcome_phoenix.png
      alt="Welcome to Phoenix"
      style="width:60%; display:block; margin: 1.5rem auto;">
 
-<div style="max-width: 720px; margin: 0 auto; padding: 0 2rem; line-height: 1.7;">
+<div style="max-width: 900px; margin: 0 auto; padding: 0 2rem; line-height: 1.7;">
 
 <p>This past weekend I returned to my old stomping grounds (aka “science policy”) and had the opportunity through the AAAS (American Association for the Advancement of Science) Annual Meeting in Phoenix to present some of my ongoing research into extreme heat impacts on energy demand. It also marked the first time since starting my PhD that I traveled and attended a conference by myself. Somehow, the experience was so much better than I could have anticipated!</p>
 
