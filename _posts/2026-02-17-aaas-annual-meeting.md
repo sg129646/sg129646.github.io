@@ -13,7 +13,7 @@ thumbnail: /images/welcome_phoenix.png
   <img src="/images/welcome_phoenix.png" 
        alt="Welcome to Phoenix"
        style="width:60%; display:block; margin: 0 auto;">
-  <figcaption style="font-style: italic; color: #6e6e6e; margin-top: 0.5rem;">
+   <div style="font-style: italic; color: #8a8a8a; margin-top: 0.5rem;">
     The view outside of my hotel at the AAAS 2026 Annual Meeting in Phoenix, AZ.
   </figcaption>
 </figure>
