@@ -1,4 +1,4 @@
-y# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Stacy Godfreey-Igwe"
 title_separator          : "-"
 name                     : &name "Stacy Godfreey-Igwe"
-description              : &description "Engineer, researcher, and science policy advocate for energy equity and justice"
+description              : &description "Engineer, researcher, and science policy advocate focused on energy equity and justice"
 url                      : https://stacyigwe.com  # your custom domain
 baseurl                  : ""  # no subpath — site is served from root
 repository               : "sg129646/sg129646.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "stacy_avatar.jpg"
   name             : "Stacy Godfreey-Igwe"
   pronouns         : # example: "she/her"  
-  bio              : "Engineer, researcher, and advocate focused on equity and energy justice"
+  bio              : "Engineer, researcher, and science policy advocate fooused on energy equity and justice"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
