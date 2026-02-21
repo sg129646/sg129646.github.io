@@ -7,6 +7,8 @@ author_profile: true
 
 I’m a second year Ph.D. student in the joint Engineering & Public Policy and Civil & Environmental Engineering program at Carnegie Mellon University. My research examines energy equity, extreme heat, and residential electricity consumption, with a focus on how climate stress disproportionately affects vulnerable communities.
 
+On campus I am active in STEM outreach through <a href="https://epp.engineering.cmu.edu/events/succeed/index.html" target="_blank">SUCCEED</a> and the Graduate Student Outreach Counil (GSOC) and am an a representative for EPP on CMU's Graduate Student Assembly. 
+
 Outside of research I enjoy taking boxing classes, playing with my cat ChiChi, reading Afro Lit, watching movies, and crocheting. I'm leaving some fun photos below!
 
 **Email:** sgodfree[at]andrew.cmu.edu  
