@@ -13,7 +13,6 @@ Outside of research or school, I enjoy taking boxing classes, playing with my ca
 
 **Email:** sgodfree[at]andrew.cmu.edu  
 **CV:** [Link]({{ '/cv/' | relative_url }})
-<hr />
 
 ## Life Outside Research
 
