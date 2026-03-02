@@ -7,7 +7,7 @@ author_profile: true
 
 I am a second year Ph.D. student in the joint Engineering & Public Policy and Civil & Environmental Engineering program at Carnegie Mellon University. My research examines energy equity, extreme heat, and residential electricity consumption, with a focus on how climate stress disproportionately affects vulnerable communities. 
 
-Beyond research, I stay connected to the broader campus community through STEM outreach with <a href="https://epp.engineering.cmu.edu/events/succeed/index.html" target="_blank">SUCCEED</a>, am currently the a departmental representative on CMU's Graduate Student Assembly, and am the CMU Liason for the Allegheny Science Policy and Governance organization. 
+Beyond research, I stay connected to the broader campus community through STEM outreach with <a href="https://epp.engineering.cmu.edu/events/succeed/index.html" target="_blank">SUCCEED</a>, am currently the a departmental representative on CMU's Graduate Student Assembly, and am the CMU Liason for the <a href="https://aspgpitt.wordpress.com" target="_blank">Allegheny Science Policy and Governance</a> organization. 
 
 Outside of research or school, I enjoy taking boxing classes, playing with my cat ChiChi, reading Afro Lit, watching movies, and crocheting. I'm leaving some fun photos below!
 
