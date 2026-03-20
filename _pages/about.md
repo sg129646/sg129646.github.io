@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "About Me"
 permalink: /about/
 author_profile: true
+sidebar:
+  align: right
 ---
 
 I am a second year Ph.D. student in the joint Engineering & Public Policy and Civil & Environmental Engineering program at Carnegie Mellon University. My research examines energy equity, extreme heat, and residential electricity consumption, with a focus on how climate stress disproportionately affects vulnerable communities. 
