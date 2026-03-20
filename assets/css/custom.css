@@ -1,5 +1,4 @@
-/* Emergency fix: remove broken author sidebar everywhere */
-/*
+
 .sidebar {
   display: none !important;
 }
@@ -16,4 +15,4 @@
 .author__urls-wrapper button {
   display: none !important;
 }
-*/
+
