@@ -46,21 +46,19 @@
    Custom Site Overrides
    =============================== */
 
-/* Light mode background (do NOT override dark) */
+/* Light mode background only */
 html:not([data-theme="dark"]) body {
   background-color: #fbf8f5;
 }
 
-/* Constrain post width */
-.layout--single #main {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-/* Give the main content more room away from the left sidebar */
+/* Better spacing between left sidebar and content on wider screens */
 @media screen and (min-width: 960px) {
-  .page,
-  .archive {
-    padding-left: 3rem;
+  .sidebar {
+    padding-right: 2rem;
+  }
+
+  .layout--single .page,
+  .layout--single .archive {
+    padding-left: 2.5rem;
   }
 }
