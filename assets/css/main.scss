@@ -56,3 +56,11 @@ html:not([data-theme="dark"]) body {
   max-width: 800px;
   margin: 0 auto;
 }
+
+/* Give the main content more room away from the left sidebar */
+@media screen and (min-width: 960px) {
+  .page,
+  .archive {
+    padding-left: 3rem;
+  }
+}
