@@ -52,7 +52,7 @@ html:not([data-theme="dark"]) body {
 }
 
 /* Better spacing between left sidebar and content on wider screens */
-@media screen and (min-width: 960px) {
+/* @media screen and (min-width: 960px) {
   .sidebar {
     padding-right: 2rem;
   }
@@ -61,4 +61,4 @@ html:not([data-theme="dark"]) body {
   .layout--single .archive {
     padding-left: 2.5rem;
   }
-}
+} */
