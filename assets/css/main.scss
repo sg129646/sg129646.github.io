@@ -63,7 +63,7 @@ html:not([data-theme="dark"]) body {
   }
 } */
 
-
+/*
 @media screen and (min-width: 768px) {
   .sidebar {
     float: left;
@@ -92,5 +92,33 @@ html:not([data-theme="dark"]) body {
   .layout--single .page {
     flex: 1;
     margin-left: 2rem;
+  }
+} */
+
+/* Fix sidebar layout for medium screens */
+@media screen and (min-width: 900px) {
+  .layout--single .page__content-wrapper,
+  .layout--single {
+    display: flex !important;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+  }
+
+  .layout--single .sidebar {
+    float: none !important;
+    width: 260px !important;
+    flex-shrink: 0;
+    position: relative !important;
+  }
+
+  .layout--single .page,
+  .layout--single .archive {
+    float: none !important;
+    width: auto !important;
+    flex: 1 1 0;
+    min-width: 0;  /* this prevents text overflow */
+    margin-left: 2rem;
+    margin-right: 0;
+    padding-right: 1rem;
   }
 }
