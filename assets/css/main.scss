@@ -62,3 +62,18 @@ html:not([data-theme="dark"]) body {
     padding-left: 2.5rem;
   }
 } */
+
+
+@media screen and (min-width: 850px) {
+  .sidebar {
+    float: left;
+    width: 220px;
+  }
+
+  .page {
+    float: right;
+    width: calc(100% - 260px);
+    padding-left: 2rem;
+    margin-right: 0;
+  }
+}
