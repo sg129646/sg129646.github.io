@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+remote_theme             : academicpages/academicpages.github.io
 site_theme               : "default"
 title                    : "Stacy Godfreey-Igwe"
 title_separator          : "-"
