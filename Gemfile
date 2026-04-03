@@ -1,4 +1,5 @@
-/* source 'https://rubygems.org'
+/* this is a block comment
+source 'https://rubygems.org'
 
 group :jekyll_plugins do
   gem 'jekyll'
