@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+/* source 'https://rubygems.org'
 
 group :jekyll_plugins do
   gem 'jekyll'
@@ -10,4 +10,8 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+gem 'connection_pool', '2.5.0' */
+
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
