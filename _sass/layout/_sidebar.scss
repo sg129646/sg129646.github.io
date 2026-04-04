@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -17,13 +17,11 @@
     margin-top: 1em;
   }
 
-  @media screen and (min-width: 900px) {
-    height: auto;
-    max-height: calc(100vh - #{$masthead-height} - 2rem);
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    height: 100vh;
     overflow-y: auto;
-    position: sticky;
-    top: calc(#{$masthead-height} + 1rem);
-    padding-top: 0;
+    position: fixed;
+    padding-top: $masthead-height;
   }
 
   @include breakpoint($large) {
@@ -138,7 +136,7 @@
 .sidebar .author__desktop {
   display: none;
 
-  @media screen and (min-width: 900px) {
+  @include breakpoint($large) {
     display: block;
   }
 }
@@ -265,51 +263,6 @@
     }
   }
 }
-
-/* Force desktop sidebar layout on laptop widths */
-@media screen and (min-width: 900px) {
-  .author__avatar {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  .author__avatar img {
-    padding: 5px;
-    border: 1px solid var(--global-border-color);
-  }
-
-  .author__content {
-    display: block;
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  .author__urls-wrapper {
-    display: block;
-    width: 100%;
-  }
-
-  .author__urls {
-    display: block;
-    position: relative;
-    right: auto;
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
-  .author__urls:before,
-  .author__urls:after {
-    display: none;
-  }
-}
-
 /* ==========================================================================
    SIDEBAR
    ========================================================================== */
