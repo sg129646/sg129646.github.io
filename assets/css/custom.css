@@ -1,13 +1,14 @@
 /* Add breathing room to standard pages (no sidebar) */
-.page-content {
+/* .page-content {
   padding-left: 2.5rem;
   padding-right: 2.5rem;
 }
 
 /* Slightly tighter on mobile */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .page-content {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }
-}
+} 
+*/
