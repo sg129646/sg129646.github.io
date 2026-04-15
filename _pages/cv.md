@@ -12,10 +12,13 @@ redirect_from:
 ## Education
 
 **Carnegie Mellon University**  
-*Joint Ph.D. in Engineering & Public Policy and Civil & Environmental Engineering*  
-Expected May 2029   
+*Ph.D. in Engineering & Public Policy and Civil & Environmental Engineering*  
+Expected May 2028  
 
-Research Interests: Residential energy demand modeling; extreme heat and climate resilience; energy equity; macro energy systems  
+*M.S. in Engineering & Public Policy*  
+May 2026  
+
+Research Interests: Residential energy demand modeling; extreme heat and climate resilience; energy equity; macro energy systems 
 
 **Massachusetts Institute of Technology**  
 *B.S. in Mechanical Engineering (Concentration in Sustainable Design) and African & African Diaspora Studies*  
