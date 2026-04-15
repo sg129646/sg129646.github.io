@@ -25,6 +25,7 @@ June 2022
 
 ## Honors, Fellowships & Grants
 
+- Paul & Daisy Soros Fellowship for New Americans (2026)
 - Summer Institute for Computational Social Science (SICCS), CMU Fellow (2025)  
 - NSF Graduate Research Fellowship Program (GRFP), Honorable Mention (2025)  
 - CMU Rales Program Fellowship, Inaugural Cohort (2024–Present)  
@@ -98,6 +99,7 @@ Supported Africa Futures Advisory Board research through literature review and s
 ---
 ## Service & Leadership
 
+- Alleheny Science Policy and Governance — CMU Liason 
 - EPP Student Facilitation Board — Elected PhD Representative  
 - EPP SUCCEED Program — Graduate Organizer (Climate & Energy Justice Outreach)  
 - CMU School of Engineering Graduate Outreach Committee — Member  
@@ -105,5 +107,5 @@ Supported Africa Futures Advisory Board research through literature review and s
 ---
 ## Skills
 
-**Technical:** R, Python, MATLAB, Excel, SolidWorks, Overleaf  
+**Technical:** R, Python, MATLAB, Excel, SolidWorks, Overleaf, Git/Github  
 **Languages:** French (Intermediate); Igbo (Elementary)
