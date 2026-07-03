@@ -55,11 +55,11 @@ thumbnail: /images/CMU_Sunny.png
 <div style="display:flex; justify-content:center; gap:1rem; margin:1.5rem auto; flex-wrap:wrap;">
 
   <div style="text-align:center;">
-    <img src="/images/seoul_photo1.jpg"
+    <img src="/images/agu_group.jpeg"
          alt="Exploring Seoul"
          style="width:350px; max-width:100%; border-radius:4px;">
-    <div style="font-style:italic; color:#8a8a8a; margin-top:0.5rem;">
-      Exploring the streets of Seoul.
+    <div style="font-style: italic; color: #8a8a8a; margin-top: 0.5rem;">
+      AGU Voices for Science Policy Cohort.
     </div>
   </div>
 
