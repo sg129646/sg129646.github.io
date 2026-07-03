@@ -22,9 +22,9 @@ thumbnail: /images/CMU_Sunny.png
 
 <p>Like the title of this post, the heat and humidity in Pittsburgh have been unbearable. In spite of what I imagine will be a expensive electric bill later this month, I've been blasting the AC unit all day while my poor cat has been sprawled out next to my fan. It's been a very unique experience to be subject to exactly what it is I'm researching in my PhD.</p>
 
-<p>I figured the heatwave (given my trouble concentrating) would be a good excuse to give a quick series of updates, share a few photos from my summer and travels, and motivate myself to finish the other blog drafts I've been sitting on.</p>
+<p> Lastly, as a quick PSA, with extreme heat it's important to: stay hydrated and replenish electrolytes, avoid being outside around peak temperatures, reapply sunscreen every few hours if you're outdoors, wear loose clothing, and, most importantly, be kind to yourself, as extreme heat can worsen sleep quality and productivity. </p>
 
-<p>I actually started my summer in Seoul! A childhood friend and I spent two weeks sightseeing, eating good food, and checking out markets around via the amazing metro system. For the most part, I enjoyed being in a big city like Seoul, even if I often stood out as a visibly Black foreigner in certain areas. Most people paid me no mind, and a few people were open and kind in asking where I was visiting from, or, like one woman who spoke to me in rapid-fire Korean, seemed curious about my locs.</p>
+<p>I figured the heatwave (given my trouble concentrating) would be a good excuse to give a quick series of updates, share a few photos from my summer and travels, and motivate myself to finish the other blog drafts I've been sitting on.</p>
 
 <div style="display:flex; justify-content:center; gap:1rem; margin:1.5rem auto; flex-wrap:wrap;">
 
@@ -48,7 +48,7 @@ thumbnail: /images/CMU_Sunny.png
 
 </div>
 
-<p>Otherwise, I was in DC on two separate policy-related occasions for the AGU Voices for Science program and for the Science Network for Advancing Policy (SNAP) Retreat. Through the AGU program, my group and I were able to visit congressional offices to advocate for STEM researchers, and SNAP was an incredible experience to connect with other early-career researchers stepping into the policy space.</p>
+<p>I actually started my summer in Seoul! A childhood friend and I spent two weeks sightseeing, eating good food, and checking out markets around via the amazing metro system. For the most part, I enjoyed being in a big city like Seoul, even if I often stood out as a visibly Black foreigner in certain areas. Most people paid me no mind, and a few people were open and kind in asking where I was visiting from, or, like one woman who spoke to me in rapid-fire Korean, seemed curious about my locs.</p>
 
 <div style="display:flex; justify-content:center; gap:1rem; margin:1.5rem auto; flex-wrap:wrap;">
 
@@ -72,7 +72,7 @@ thumbnail: /images/CMU_Sunny.png
 
 </div>
 
-<p>Somewhere in between, I also presented my research at the Technology Management & Policy (TMP) and International Symposium on Sustainable Systems and Technology (ISSST) conferences where I spent time with other wonderful CMU folks. I still have plenty of travel later this summer that I'm looking forward to.</p>
+<p>Otherwise, I was in DC on two separate policy-related occasions for the AGU Voices for Science program and for the Science Network for Advancing Policy (SNAP) Retreat. Through the AGU program, my group and I were able to visit congressional offices to advocate for STEM researchers, and SNAP was an incredible experience to connect with other early-career researchers stepping into the policy space.</p>
 
 <div style="text-align:center; margin: 1.5rem auto;">
   <img src="/images/ISSST.png"
@@ -83,8 +83,8 @@ thumbnail: /images/CMU_Sunny.png
   </div>
 </div>
 
-<p>Eventually, I'd like to put together more posts on books I've read so far and reflections on receiving the PD Soros Fellowship in case they might be helpful to anyone applying in the fall.</p>
+<p>Somewhere in between, I also presented my research at the Technology Management & Policy (TMP) and International Symposium on Sustainable Systems and Technology (ISSST) conferences where I spent time with other wonderful CMU folks. I still have plenty of travel later this summer that I'm looking forward to.</p>
 
-<p><p> Lastly, as a quick PSA, with extreme heat it's important to: stay hydrated and replenish electrolytes, avoid being outside around peak temperatures, reapply sunscreen every few hours if you're outdoors, wear loose clothing, and, most importantly, be kind to yourself, as extreme heat can worsen sleep quality and productivity. </p></p>
+<p>Eventually, I'd like to put together more posts on books I've read so far and reflections on receiving the PD Soros Fellowship in case they might be helpful to anyone applying in the fall.</p>
 
 </div>
