@@ -31,20 +31,20 @@ thumbnail: /images/CMU_Sunny.png
 <div style="display:flex; justify-content:center; gap:1rem; margin:1.5rem auto; flex-wrap:wrap;">
 
   <div style="text-align:center;">
-    <img src="/images/seoul_photo1.jpg"
-         alt="Exploring Seoul"
+    <img src="/images/Namsan-Tower.png"
+         alt="Namsan Tower"
          style="width:350px; max-width:100%; border-radius:4px;">
     <div style="font-style:italic; color:#8a8a8a; margin-top:0.5rem;">
-      Exploring the streets of Seoul.
+      Me before our Namsan Tower Hike.
     </div>
   </div>
 
   <div style="text-align:center;">
-    <img src="/images/seoul_photo2.jpg"
-         alt="Day trip to Busan"
+    <img src="/images/Matcha-Cake.png"
+         alt="Seoul Forest Cafe"
          style="width:350px; max-width:100%; border-radius:4px;">
     <div style="font-style:italic; color:#8a8a8a; margin-top:0.5rem;">
-      A day trip to Busan.
+      A visit to the 청수당 a cafe with the Matcha Fromage Cake.
     </div>
   </div>
 
