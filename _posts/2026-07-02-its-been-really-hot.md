@@ -55,33 +55,33 @@ thumbnail: /images/CMU_Sunny.png
 <div style="display:flex; justify-content:center; gap:1rem; margin:1.5rem auto; flex-wrap:wrap;">
 
   <div style="text-align:center;">
-    <img src="/images/agu_group.jpeg"
-         alt="Exploring Seoul"
+    <img src="/images/stacy_agu.png"
+         alt="AGU Capitol Hill"
          style="width:350px; max-width:100%; border-radius:4px;">
     <div style="font-style: italic; color: #8a8a8a; margin-top: 0.5rem;">
-      AGU Voices for Science Policy Cohort.
+      Solo Photo on Capitol Hill before meeting our reps.
     </div>
   </div>
 
   <div style="text-align:center;">
-    <img src="/images/seoul_photo2.jpg"
-         alt="Day trip to Busan"
+    <img src="/images/snap-retreat.jpeg"
+         alt="Snap Retreat Group Photo"
          style="width:350px; max-width:100%; border-radius:4px;">
     <div style="font-style:italic; color:#8a8a8a; margin-top:0.5rem;">
-      A day trip to Busan.
+     Group Photo at the SNAP Retreat.
     </div>
   </div>
 
 </div>
 
-<p>Somewhere in between, I also presented my research at TMP and ISSST and got to spend time with other wonderful CMU folks. I still have plenty of travel later this summer that I'm looking forward to.</p>
+<p>Somewhere in between, I also presented my research at the Technology Management & Policy (TMP) and International Symposium on Sustainable Systems and Technology (ISSST) conferences where I spent time with other wonderful CMU folks. I still have plenty of travel later this summer that I'm looking forward to.</p>
 
 <div style="text-align:center; margin: 1.5rem auto;">
-  <img src="/images/seoul_photo.jpg"
-       alt="Exploring Seoul"
+  <img src="/images/ISSST.png"
+       alt="ISSST Conference"
        style="width:50%; display:block; margin:0 auto;">
   <div style="font-style: italic; color: #8a8a8a; margin-top: 0.5rem;">
-    Exploring the streets of Seoul.
+    Photo of us talented CMU grad students at ISSST.
   </div>
 </div>
 
