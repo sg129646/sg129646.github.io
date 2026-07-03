@@ -11,6 +11,8 @@ tags:
 thumbnail: /images/CMU_Sunny.png
 ---
 
+<div style="max-width: 900px; margin: 0 auto; padding: 0 2rem; line-height: 1.7;">
+
 <p>Like the title of this post, the heat and humidity in Pittsburgh have been unbearable. In spite of what I imagine will be a expensive electric bill later this month, I've been blasting the AC unit all day while my poor cat has been sprawled out next to my fan. It's been a very unique experience to be subject to exactly what it is I'm researching in my PhD.</p>
 
 <div style="text-align:center; margin: 1.5rem auto;">
@@ -18,8 +20,6 @@ thumbnail: /images/CMU_Sunny.png
        alt="Summer in Pittsburgh"
        style="width:50%; display:block; margin: 0 auto;">
 </div>
-
-<div style="max-width: 900px; margin: 0 auto; padding: 0 2rem; line-height: 1.7;">
 
 <p><a href="https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety" target="_blank">As a quick PSA</a>, with extreme heat it's important to: stay hydrated and replenish electrolytes, avoid being outside around peak temperatures, reapply sunscreen every few hours if you're outdoors, wear loose clothing, and, most importantly, be kind to yourself, as extreme heat can worsen sleep quality and productivity. </p>
 
