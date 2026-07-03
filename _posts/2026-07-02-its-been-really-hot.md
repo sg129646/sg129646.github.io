@@ -11,6 +11,7 @@ tags:
 thumbnail: /images/CMU_Sunny.png
 ---
 
+<p>Like the title of this post, the heat and humidity in Pittsburgh have been unbearable. In spite of what I imagine will be a expensive electric bill later this month, I've been blasting the AC unit all day while my poor cat has been sprawled out next to my fan. It's been a very unique experience to be subject to exactly what it is I'm researching in my PhD.</p>
 
 <div style="text-align:center; margin: 1.5rem auto;">
   <img src="/images/CMU_Sunny.png"
@@ -20,7 +21,7 @@ thumbnail: /images/CMU_Sunny.png
 
 <div style="max-width: 900px; margin: 0 auto; padding: 0 2rem; line-height: 1.7;">
 
-<p>Like the title of this post, the heat and humidity in Pittsburgh have been unbearable. In spite of what I imagine will be a expensive electric bill later this month, I've been blasting the AC unit all day while my poor cat has been sprawled out next to my fan. It's been a very unique experience to be subject to exactly what it is I'm researching in my PhD.</p>
+<p><a href="https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety" target="_blank">As a quick PSA</a>, with extreme heat it's important to: stay hydrated and replenish electrolytes, avoid being outside around peak temperatures, reapply sunscreen every few hours if you're outdoors, wear loose clothing, and, most importantly, be kind to yourself, as extreme heat can worsen sleep quality and productivity. </p>
 
 <p>I figured the heatwave (given my trouble concentrating) would be a good excuse to give a quick series of updates, share a few photos from my summer and travels, and motivate myself to finish the other blog drafts I've been sitting on.</p>
 
@@ -84,7 +85,5 @@ thumbnail: /images/CMU_Sunny.png
 </div>
 
 <p>Eventually, I'd like to put together more posts on books I've read so far and reflections on receiving the PD Soros Fellowship in case they might be helpful to anyone applying in the fall.</p>
-
-<p> Lastly, as a quick PSA, with extreme heat it's important to: stay hydrated and replenish electrolytes, avoid being outside around peak temperatures, reapply sunscreen every few hours if you're outdoors, wear loose clothing, and, most importantly, be kind to yourself, as extreme heat can worsen sleep quality and productivity. </p>
 
 </div>
