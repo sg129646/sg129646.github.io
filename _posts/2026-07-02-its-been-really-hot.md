@@ -55,7 +55,7 @@ thumbnail: /images/CMU_Sunny.png
 <div style="display:flex; justify-content:center; gap:1rem; margin:1.5rem auto; flex-wrap:wrap;">
 
   <div style="text-align:center;">
-    <img src="/images/stacy_agu.png"
+    <img src="/images/stacy_agu.jpeg"
          alt="AGU Capitol Hill"
          style="width:350px; max-width:100%; border-radius:4px;">
     <div style="font-style: italic; color: #8a8a8a; margin-top: 0.5rem;">
