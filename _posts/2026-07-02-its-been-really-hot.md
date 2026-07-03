@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "It's Been Really Hot Outside"
@@ -6,11 +5,13 @@ date: 2026-07-03
 excerpt: "A quick summer update on heat, travel, science policy, and the many blog posts I still hope to write."
 tags:
   - personal
-  - travel
-  - science-policy
+  - sci-pol
+  - conference
   - research
 thumbnail: /images/CMU_Sunny.png
 ---
+
+
 <div style="text-align:center; margin: 1.5rem auto;">
   <img src="/images/CMU_Sunny.png"
        alt="Summer in Pittsburgh"
