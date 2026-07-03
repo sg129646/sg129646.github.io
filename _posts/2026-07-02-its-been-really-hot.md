@@ -34,7 +34,7 @@ thumbnail: /images/CMU_Sunny.png
     <img src="/images/Namsan-Tower.png"
          alt="Namsan Tower"
          style="width:350px; max-width:100%; border-radius:4px;">
-    <div style="font-style:italic; color:#8a8a8a; margin-top:0.5rem;">
+    <div style="font-style: italic; color: #8a8a8a; margin-top: 0.5rem;">
       Me before our Namsan Tower Hike.
     </div>
   </div>
@@ -43,7 +43,7 @@ thumbnail: /images/CMU_Sunny.png
     <img src="/images/Matcha-Cake.png"
          alt="Seoul Forest Cafe"
          style="width:350px; max-width:100%; border-radius:4px;">
-    <div style="font-style:italic; color:#8a8a8a; margin-top:0.5rem;">
+    <div style="font-style: italic; color: #8a8a8a; margin-top: 0.5rem;">
       A visit to the 청수당 a cafe with the Matcha Fromage Cake.
     </div>
   </div>
