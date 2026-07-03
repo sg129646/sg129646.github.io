@@ -9,7 +9,7 @@ tags:
   - travel
   - science-policy
   - research
-thumbnail: /images/pittsburgh_heat.jpg
+thumbnail: /images/CMU_Sunny.png
 ---
 <div style="text-align:center; margin: 1.5rem auto;">
   <img src="/images/CMU_Sunny.png"
