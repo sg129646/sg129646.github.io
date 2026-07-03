@@ -12,7 +12,7 @@ tags:
 thumbnail: /images/pittsburgh_heat.jpg
 ---
 <div style="text-align:center; margin: 1.5rem auto;">
-  <img src="/images/pittsburgh_heat.jpg"
+  <img src="/images/CMU_Sunny.png"
        alt="Summer in Pittsburgh"
        style="width:50%; display:block; margin: 0 auto;">
 </div>
